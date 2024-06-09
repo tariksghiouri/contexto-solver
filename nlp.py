@@ -1,7 +1,4 @@
 from nltk.corpus import wordnet
-import nltk
-
-# nltk.download('wordnet')
 
 def get_english_words():
     english_words = set()

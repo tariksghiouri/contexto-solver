@@ -1,0 +1,5 @@
+selenium
+nltk
+scikit-learn
+gensim
+requests
